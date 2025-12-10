@@ -16,7 +16,4 @@ My small stack
 - Git & GitHub
 - and my brain 🧠
 
-Fun facts:
-- I have a cat 🐱
-- I can play the guitar 🎸
 Hobbies: Gym, Building things, Learning new technologies
