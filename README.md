@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋 I’m Nikita
 
-<!--
-**Azarkevich-Nikita/Azarkevich-Nikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student based in Belarus BY
+I design and build whatever I can imagine.
 
-Here are some ideas to get you started:
+My main tech languages are Java and JavaScript, powered by a lot of motivation 🚀
+My favorite tools are Visual Studio Code, pgAdmin, and YouTube (best debugger ever).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve got a bunch of pinned projects, but my favorite one is Anime Scene Gallery 🎨
+If you want to learn how I build things, feel free to explore my projects here.
+
+My small stack
+- Java (with different frameworks)
+- JavaScript
+- PostgreSQL
+- Git & GitHub
+- and my brain 🧠
+
+Fun facts:
+- I have a cat 🐱
+- I can play the guitar 🎸
+Hobbies: Gym, Building things, Learning new technologies
